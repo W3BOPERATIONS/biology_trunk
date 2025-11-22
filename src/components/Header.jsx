@@ -87,7 +87,7 @@ const Header = () => {
             <div className="header-logo">
               <div className="header-logo-icon">
                 {/* <Icon name="GraduationCap" size={20} color="var(--color-primary)" /> */}
-                <img src="/1.png" alt="Biology" width={80} height={80} />
+                <img src="/2.png" alt="Biology" width={80} height={80} />
                 {/* <img src="/1.png" alt="Biology" className="w-95 h-95 object-contain" /> */}
 
 
